@@ -1,0 +1,63 @@
+.cproject
+# VLC
+#/vlc/
+
+# Android .so
+#/android-libs/**/*.so
+
+# Local configuration
+local.properties
+env.sh
+
+# OS specific
+.DS_Store
+.directory
+*~
+.*.swp
+Thumbs.db
+
+# Signage keys
+*.keystore
+
+# Eclipse
+#.classpath
+#.project
+java-libs/appcompat/.classpath
+java-libs/appcompat/.project
+
+# Android Studio
+.idea
+*.iml
+
+#gradle
+gradle.properties
+gradlew.bat
+gradlew
+gradle/wrapper/
+.gradle/
+build/
+vlc-android/build/
+java-libs/WheelView/build/
+libVLC/build/
+
+
+/centerSurfaceViewDemo/bin/classes/
+/centerSurfaceViewDemo/bin/dexedLibs/
+/centerSurfaceViewDemo/bin/res/
+/centerSurfaceViewDemo/bin/classes.dex
+/centerSurfaceViewDemo/bin/jarlist.cache
+/centerSurfaceViewDemo/bin/resources.ap_
+/centerSurfaceViewDemo/bin/AndroidManifest.xml
+/centerSurfaceViewDemo/gen/
+
+
+/Looplayer/bin/classes/
+/Looplayer/bin/dexedLibs/
+/Looplayer/bin/res/
+/Looplayer/bin/classes.dex
+/Looplayer/bin/jarlist.cache
+/Looplayer/bin/resources.ap_
+/Looplayer/bin/AndroidManifest.xml
+/Looplayer/gen/
+
+/mongoose/obj/
