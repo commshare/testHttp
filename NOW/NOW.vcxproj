@@ -80,9 +80,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\civetweb.h" />
+    <ClInclude Include="resource\resource.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource\res.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resource\catpink.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
