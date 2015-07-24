@@ -61,3 +61,6 @@ libVLC/build/
 /Looplayer/gen/
 
 /mongoose/obj/
+
+/NOW/Debug/
+/NOW/Release/
