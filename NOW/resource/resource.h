@@ -747,7 +747,6 @@
 #define VK_NUMPAD8                      0x68
 #define LANG_HAUSA                      0x68
 #define VK_NUMPAD9                      0x69
-#define IDI_ICON1                       100
 #define VK_MULTIPLY                     0x6A
 #define LANG_YORUBA                     0x6a
 #define VK_ADD                          0x6B
@@ -758,6 +757,7 @@
 #define LANG_BASHKIR                    0x6d
 #define VK_DECIMAL                      0x6E
 #define LANG_LUXEMBOURGISH              0x6e
+#define IDI_ICON1                       100
 #define VK_DIVIDE                       0x6F
 #define LANG_GREENLANDIC                0x6f
 #define VK_F1                           0x70
@@ -1432,7 +1432,7 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        107
+#define _APS_NEXT_RESOURCE_VALUE        111
 #define _APS_NEXT_COMMAND_VALUE         40001
 #define _APS_NEXT_CONTROL_VALUE         1000
 #define _APS_NEXT_SYMED_VALUE           101

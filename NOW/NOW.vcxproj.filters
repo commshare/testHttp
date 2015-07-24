@@ -39,5 +39,29 @@
     <Image Include="resource\catpink.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="catblack.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resource\catblack.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="catb.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resource\catb.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="catb256.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resource\catb256.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="catK256.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resource\catK256.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

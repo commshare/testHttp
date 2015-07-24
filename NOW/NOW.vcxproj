@@ -86,6 +86,14 @@
     <ResourceCompile Include="resource\res.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="catb.ico" />
+    <Image Include="catb256.ico" />
+    <Image Include="catblack.ico" />
+    <Image Include="catK256.ico" />
+    <Image Include="resource\catb.ico" />
+    <Image Include="resource\catb256.ico" />
+    <Image Include="resource\catblack.ico" />
+    <Image Include="resource\catK256.ico" />
     <Image Include="resource\catpink.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
