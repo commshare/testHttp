@@ -1,0 +1,20 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Various temporary files
+*.swp
+*.svg
+*old
+*/old/*
+
+# binary 
+bin/objs
+
+# dir
+nbproject/
+plugins/*
+!/plugins/Makefile
+/bin/domoaster
