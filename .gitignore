@@ -1,3 +1,10 @@
+
+*.zip
+*.rar
+*.so
+*.tar
+*.gz
+*.bz2
 .cproject
 # VLC
 #/vlc/
